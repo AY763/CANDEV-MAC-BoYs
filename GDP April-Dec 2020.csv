@@ -1,0 +1,63 @@
+﻿"Gross domestic product (GDP) at basic prices, by industry, monthly (x 1,000,000) 1 2"
+"Frequency: Monthly"
+"Table: 36-10-0434-01 (formerly CANSIM 379-0031)"
+"Release date: 2022-02-01"
+"Geography: Canada"
+""
+""
+
+"Seasonal adjustment","Seasonally adjusted at annual rates",,,,,,,,
+"Prices","Chained (2012) dollars 3",,,,,,,,
+"Geography","Canada",,,,,,,,
+"North American Industry Classification System (NAICS)","April 2020","May 2020","June 2020","July 2020","August 2020","September 2020","October 2020","November 2020","December 2020"
+,"Dollars",,,,,,,,
+"All industries  [T001] 4","1,658,387","1,733,389","1,833,539","1,881,318","1,899,027","1,916,771","1,928,236","1,941,301","1,941,070"
+"Goods-producing industries  [T002] 4","473,122","507,964","534,445","543,372","544,410","549,722","551,665","557,894","562,417"
+"Service-producing industries  [T003] 4","1,182,477","1,223,588","1,296,932","1,335,326","1,351,642","1,364,059","1,373,488","1,380,507","1,376,161"
+"Business sector industries  [T004]","1,345,930","1,413,309","1,507,680","1,545,567","1,558,680","1,573,237","1,583,128","1,595,833","1,593,528"
+"Non-business sector industries  [T007]","311,476","319,465","326,018","335,855","340,374","343,608","345,263","345,795","347,803"
+"Industrial production  [T010] 4","321,952","338,573","354,598","366,311","366,223","371,773","372,221","379,900","382,791"
+"Non-durable manufacturing industries  [T011] 4","75,225","79,145","82,686","86,315","85,828","87,720","88,655","90,619","89,114"
+"Durable manufacturing industries  [T012] 4","65,715","75,941","90,865","95,101","98,096","98,024","96,328","98,292","98,524"
+"Information and communication technology sector  [T013] 4","98,021","98,420","99,130","100,352","101,314","100,988","102,684","103,266","102,545"
+"Energy sector  [T016] 4","170,186","166,090","161,168","160,917","156,455","161,414","165,306","168,786","169,920"
+"Industrial production (1950 definition)  [T017] 4","315,802","332,330","347,943","359,609","359,512","365,039","365,425","373,005","375,868"
+"Public Sector  [T018] 4","326,399","335,576","350,251","362,854","367,400","370,838","373,768","374,884","377,145"
+"Content and media sector  [T019] 4","9,492","9,487","10,235","10,967","12,200","12,392","12,463","12,412","12,363"
+"All industries (except cannabis sector)  [T020] 4","1,650,665","1,725,567","1,825,474","1,873,253","1,891,035","1,908,941","1,920,231","1,933,118","1,932,697"
+"Cannabis sector  [T021] 4","8,948","9,005","9,272","9,259","9,183","9,009","9,406","9,778","10,249"
+"All industries (except unlicensed cannabis sector)  [T024] 4","1,654,142","1,729,097","1,829,174","1,876,944","1,894,620","1,912,328","1,923,799","1,936,842","1,936,596"
+"Agriculture, forestry, fishing and hunting  [11]","41,428","42,252","43,055","43,329","43,496","43,443","43,371","43,180","42,876"
+"Mining, quarrying, and oil and gas extraction  [21]","138,830","139,498","132,225","134,243","131,867","137,836","138,731","143,275","148,721"
+"Utilities  [22]","41,875","41,891","42,254","43,270","42,353","41,292","41,741","41,388","41,489"
+"Construction  [23]","116,960","133,490","143,186","140,749","141,638","141,639","143,144","142,271","144,134"
+"Manufacturing  [31-33]","141,230","155,296","173,612","181,472","183,926","185,783","185,060","188,992","187,696"
+"Wholesale trade  [41]","80,588","85,615","99,560","104,763","105,255","105,269","106,263","106,705","105,796"
+"Retail trade  [44-45]","71,327","84,986","100,048","99,852","99,794","102,788","104,790","105,940","100,244"
+"Transportation and warehousing  [48-49]","60,033","60,927","65,817","68,657","68,191","69,018","70,892","71,842","72,380"
+"Information and cultural industries  [51]","63,228","63,502","64,454","65,240","66,419","66,569","66,768","66,970","66,938"
+"Finance and insurance  [52]","140,472","140,815","142,380","143,380","144,223","144,621","146,110","148,144","147,995"
+"Real estate and rental and leasing  [53]","245,108","248,294","254,497","259,270","260,786","262,021","261,664","261,511","263,899"
+"Professional, scientific and technical services  [54]","109,838","111,537","114,662","117,458","119,638","121,342","123,127","123,995","123,784"
+"Management of companies and enterprises  [55]","3,791","3,741","3,683","3,586","3,513","3,461","3,438","3,403","3,403"
+"Administrative and support, waste management and remediation services  [56]","37,804","38,873","43,071","43,950","45,730","46,584","47,183","47,632","48,081"
+"Educational services  [61]","86,208","92,207","94,059","98,301","100,743","101,673","101,847","102,065","102,675"
+"Health care and social assistance  [62]","114,327","117,147","127,606","133,610","134,955","136,089","137,622","138,566","139,255"
+"Arts, entertainment and recreation  [71]","6,534","6,318","6,622","7,654","8,261","8,371","8,559","8,304","8,140"
+"Accommodation and food services  [72]","15,850","19,155","24,779","28,812","31,223","31,300","28,876","28,929","25,959"
+"Other services (except public administration)  [81]","24,314","27,113","29,849","32,086","33,275","33,923","34,177","34,428","34,376"
+"Public administration  [91]","125,710","126,220","128,450","130,829","131,641","133,017","134,206","134,154","135,115"
+
+
+
+
+Footnotes:
+1,"Aggregates are not always equal to the sum of their components."
+2,"At the lowest level of detail, it may not be possible to produce a homogeneous series from 1997 to the present. Only industries and certain aggregates that provide good continuity back to 1997 have data from 1997 to 2006."
+3,"Effective November 30, 2018 the data is presented on a 2012 reference year basis."
+4,"The alphanumeric code appearing in square brackets beside the industry title represents the identification code of an aggregation of NAICS industries, whose definition is included in the full classification provided in the definitions, data sources and methods for the statistical program 1301 - Gross domestic product by Industry - National (Monthly)."
+
+
+
+"How to cite: Statistics Canada. Table 36-10-0434-01  Gross domestic product (GDP) at basic prices, by industry, monthly (x 1,000,000)"
+https://www150.statcan.gc.ca/t1/tbl1/en/tv.action?pid=3610043401
